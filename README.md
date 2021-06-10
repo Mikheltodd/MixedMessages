@@ -53,7 +53,9 @@ Clone this repository in your own PC and follow usage instructions.
 ## Usage
 After downloading this folder (cloning the repository in your computer), go to the files location and open the terminal. Type the following code:
 
-`node script.js`
+```
+node script.js
+```
 
 
 ## Project Status
@@ -76,12 +78,12 @@ To do:
 ## Acknowledgements
 
 - This project was inspired by Codecademy
-- This project was based on [this tutorial](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages).
+- This project was based on <a href="ttps://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages" target="_blank">this tutorial</a>
 - Many thanks to... Google
 
 
 ## Contact
-Created by [@Mikheltodd](https://github.com/Mikheltodd) - feel free to contact me!
+Created by <a href="https://github.com/Mikheltodd" target="_blank">@Mikheltodd</a> - feel free to contact me!
 
 
 ## License
