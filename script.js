@@ -1,6 +1,6 @@
 // Welcome Message
 console.log(
-  "\nWelcome to Mixed Messages\n(A random message generator)\nby Mikheltodd\n\n"
+  "\nWelcome to Mixed Messages\n(A random message generator)\nby Mikheltodd\n"
 );
 
 // import data
@@ -42,8 +42,12 @@ const generateMessage = (data) => {
   return msg;
 };
 
-// Creating message and testing
-for (let i = 0; i < 10; i++) {
+// Testing
+/* for (let i = 0; i < 10; i++) {
   let message = generateMessage(data);
   console.log(`Your random message #${i + 1} is: \n${message}\n`);
-}
+} */
+
+// Program Execution
+let message = generateMessage(data);
+console.log(`Your random message is: \n\n${message}\n`);
